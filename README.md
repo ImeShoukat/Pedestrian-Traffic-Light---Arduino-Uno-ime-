@@ -18,4 +18,4 @@ Alur kerja sistem pedestrian traffic light ini adalah sebagai berikut:
 
 ## Simulasi
 Simulasi dilakukan menggunakan platform Tinkercad seperti video berikut:
-![Simulasi Traffic Light Sederhana](simulasi ped.gif)
+![Simulasi Traffic Light Sederhana](simulasi_ped.gif)
